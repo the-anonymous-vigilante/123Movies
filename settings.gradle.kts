@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "FlixHub"
+rootProject.name = "123Movies"
 
 include(":app")

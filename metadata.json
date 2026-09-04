@@ -1,6 +1,6 @@
 {
-  "name": "FlixHub",
-  "description": "FlixHub Android App - A modern streaming experience",
+  "name": "123Movies",
+  "description": "123Movies Android App - Free HD Movies & Series Streaming",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
